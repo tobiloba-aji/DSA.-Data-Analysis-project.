@@ -47,3 +47,34 @@ This is where we included som basic lines of code, queries and Dax expressions t
 recommrndations
 contributions
 license
+
+
+
+
+
+
+
+
+
+## Case 1: Amazon case study
+
+### Project Overview
+### Data source
+### Tools used
+### Data preparation and cleaning
+- In the initial phase of the project, the data file was uploaded on the excel worksheet and data Inspection and cleaning were carried out by
+     1. Removal of duplicates using product id as key
+     2. Removal of data rows with blank entries
+     3. The multilevel column "category" was split using the text to column function
+     4. Using the filter function, incorrect data type was fixed
+### Exploratory Data Analysis (EDA)
+- EDA involved exploring the data by
+  a. creating calculated columns
+  b. formatting data into table
+  c. creating a pivot table with
+- These were done to answer the case questions below.
+   - How many products have a discount of 50% or more?
+   - What is the total potential revenue by category?
+   - 
+  - 
+     
