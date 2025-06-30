@@ -19,14 +19,14 @@ Power Bi
  - In the initial phase of the project, data files was imported individually on the Power bi desktop and the following actions were undertaken
    1. Data loading and inspection
    2. handling of missing variables
-     a. Rows with black spaces, empty spaces or null values on the salary column which denoted exited staffs were removed according to the case instruction
-     b. Rows with null values on the department column were also removed according to the case instruction
-     c. New conditional column labelled "assigned gender" was created for gender to assign gender as "undisclosed" for staffs who did not disclose their gender while retaining appropriate gender information for staffs with dsclosed gender.
+      - Rows with black spaces, empty spaces or null values on the salary column which denoted exited staffs were removed according to the case instruction
+      - Rows with null values on the department column were also removed according to the case instruction
+      - New conditional column labelled "assigned gender" was created for gender to assign gender as "undisclosed" for staffs who did not disclose their gender while retaining appropriate gender information for staffs with dsclosed gender.
    3. Data cleaning and formatting   
 - A total of three data files were transformed and sucessfully uploaded
 - concatnate newclumn
 - merging tables
-- new columns with calculations
+- new columns with calculations (add these to data cleansing or not)
 ### Exploratory data analysis (EDA)
 EDA involved exploring the data to answer some case questions such as;
 - What is the gender distribution in the organization distil into regions and 
