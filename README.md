@@ -68,13 +68,27 @@ license
      3. The multilevel column "category" was split using the text to column function
      4. Using the filter function, incorrect data type was fixed
 ### Exploratory Data Analysis (EDA)
-- EDA involved exploring the data by
-  a. creating calculated columns
-  b. formatting data into table
-  c. creating a pivot table with
+- EDA involved exploring the data by;
+   - creating calculated columns
+   - formatting data into table
+   - creating a pivot table
 - These were done to answer the case questions below.
+   - What is the average discount percentage by product category?
+   - How many products are listed under each category?
+   - What is the total number of reviews per category?
+   - Which products have the highest average ratings?
+   - What is the average actual price vs the discounted price by category?
+   - Which products have the highest number of reviews?
    - How many products have a discount of 50% or more?
-   - What is the total potential revenue by category?
-   - 
-  - 
+   - What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+4.0, etc.)?
+   - What is the total potential revenue (actual_price × rating_count) by category?
+   - What is the number of unique products per price range bucket (e.g., <₹200, 
+₹200–₹500, >₹500)?
+   - How does the rating relate to the level of discount?
+   - How many products have fewer than 1,000 reviews?
+   - Which categories have products with the highest discounts?
+   - Identify the top 5 products in terms of rating and number of reviews combined.is the total potential revenue by category?
+### Data Analysis
+
      
