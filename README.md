@@ -40,9 +40,14 @@ management
 -  Total amount to be paid to individual employees (salary inclusive of 
 bonus)
 - Total amount to be paid out per region and company-wide
-### Data analysis
+### Data analysis and visualization
+Thia can be found in the attached file. [download here](https://drive.google.com/file/d/1UlhvnUiq-wZ9elP-1rgXB6G9t7sPlKIg/view?usp=sharing)
 
 ### Insights and Recommendations
+- More males were rated "average", "poor" and "very poor" compared to females
+- All three regions showed males earning more than females, however, the region with the most pay gap that requires managerial focus is Kaduna.
+- The palmoria company did not meet the new minimum pay rrequired as most of it's employeees are paid below $90,000 as seen on the salary band distribution visual
+  
 
 
 
