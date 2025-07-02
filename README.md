@@ -6,7 +6,6 @@ This is the first data analysis project I worked on while learning data Analysis
 ### Project Overview:
 This project aims to generate insights on claims of Gender inequality in three regions of a company. By analyzing specific parameters in the data received, we seeek to gather enough insight to addressing the claims as well as identifying key areas of managerial focus to promote fair treatment within the company and its regions 
 
-table of content
 ### data sources
 The data used were XLsx files and csv files supplied by Incubator hub for use in the final course project folder
 
@@ -43,11 +42,9 @@ bonus)
 - Total amount to be paid out per region and company-wide
 ### Data analysis
 
-### Result
+### Insights and Recommendations
 
-recommrndations
-contributions
-license
+
 
 
 
@@ -94,9 +91,10 @@ Ms Excel was used to load, transform, nalyze and visualize data
    - Which categories have products with the highest discounts?
    - Identify the top 5 products in terms of rating and number of reviews combined.is the total potential revenue by category?
 ### Data Analysis and Visualization
+analysis and visualizations can be found in the dashboard and pivot table sheets of the linked spreadsheet. 
 [download here](https://docs.google.com/spreadsheets/d/1u-Ocs9II3r4CvOe4xtTzSmXkG7-T4tw1/edit?usp=sharing&ouid=104587524226893334389&rtpof=true&sd=true)
 ### Insights
 - for most products, the lower the ratings, the higher their percentage discounts.
-- 
+  
 
      
