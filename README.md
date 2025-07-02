@@ -42,8 +42,9 @@ management
 bonus)
 - Total amount to be paid out per region and company-wide
 ### Data analysis
-This is where we included som basic lines of code, queries and Dax expressions to answer case questions based on the data. 
+
 ### Result
+
 recommrndations
 contributions
 license
@@ -59,8 +60,11 @@ license
 ## Case 1: Amazon case study
 
 ### Project Overview
+This is a data set of products on the amazon site generated with the intent to 
 ### Data source
+Amazon product pages compiled b y Incubator hub for use in the final project of the 2025 data analysis course.
 ### Tools used
+Ms Excel was used to load, transform, nalyze and visualize data 
 ### Data preparation and cleaning
 - In the initial phase of the project, the data file was uploaded on the excel worksheet and data Inspection and cleaning were carried out by
      1. Removal of duplicates using product id as key
@@ -89,6 +93,10 @@ license
    - How many products have fewer than 1,000 reviews?
    - Which categories have products with the highest discounts?
    - Identify the top 5 products in terms of rating and number of reviews combined.is the total potential revenue by category?
-### Data Analysis
+### Data Analysis and Visualization
+[download here](https://docs.google.com/spreadsheets/d/1u-Ocs9II3r4CvOe4xtTzSmXkG7-T4tw1/edit?usp=sharing&ouid=104587524226893334389&rtpof=true&sd=true)
+### Insights
+- for most products, the lower the ratings, the higher their percentage discounts.
+- 
 
      
